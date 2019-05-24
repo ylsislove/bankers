@@ -1,0 +1,68 @@
+body{
+  height:100%;
+  width:100%;
+}
+
+button{
+  border-color: black;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: orange;
+}
+
+td, th{
+  padding: 5px;
+  background-color: skyblue;
+}
+
+input{
+  padding: 8px;
+  border-radius: 15px;
+  border-color: black;
+}
+
+.wrapper{
+	padding-top: 40px;
+	padding-bottom: 10px;
+}
+
+.tables{
+  padding-bottom:20%;
+}
+
+.allocation{
+  width:22.5%;
+  float:left;
+	padding-left: 5%;
+}
+
+.max{
+  width:22.5%;
+  float:left;
+}
+
+.need{
+  width:22.5%;
+  float:left;
+}
+
+.available{
+  width:22.5%;
+  float:left;
+	padding-right: 5%;
+}
+
+.input{
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+.seq{
+  padding-top:3%;
+}
+
+.success{
+	color: red;
+	font-size: 23px;
+	font-family:"微软雅黑";
+}
